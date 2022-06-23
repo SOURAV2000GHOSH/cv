@@ -1,38 +1,5 @@
 # cv
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>
-            All about Sourav Ghosh !
-        </title>
-    </head>
-    <body>
-        <img src="sourav image.png" alt="Sourav profile picture">
-        <h1>SOURAV GHOSH</h1>
-        <p>B.tech in <STRONG>ELECTRICAL ENGINEERING</STRONG></p>
-        <HR size="2" noshade>
-        <h2>EDUCATION & SCHOOL</h2>
-        <UL>
-            <li>Secendary school - <b>RATHIPUR BARADA BANIPITH(H.S.)</b></li>
-                <ul>
-                    <li>with <strong>84.14 %</strong> marks</li>
-                </ul>
-            <li>Higher secendary school - <b>RATHIPUR BARADA BANIPITH(H.S.)</b></li>
-                <ul>
-                    <li>with <strong>79 %</strong> marks</li>
-                </ul>
-            <li>Graduation - <b>COOCH BEHAR GOVERNMENT ENGINEERING COLLEGE</b></li>
-                <ul>
-                    <li>with <strong>80 %</strong> marks</li>
-                </ul>
-        </UL>
-        <hr size="2" noshade>
-        <h2>HOBBIES</h2>
-        <ul>
-            <li>Playing cricket</li>
-            <li>Listining stories</li>
-            <li>Gardening</li>
-        </ul>
+
         <hr size="2" noshade>
         <h2>SCOCIAL MEDIA LINK</h2>
         <ul>
